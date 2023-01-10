@@ -1,2 +1,2 @@
 # coursea-test
-Coursea tes 
+Coursea test 
